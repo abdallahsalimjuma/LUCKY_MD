@@ -115,8 +115,8 @@ The WhatsApp Bot Hamisi🍀_MD is released under the [MIT License](https://opens
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**Hamisi_MD**](https://github.com/Fred1e)
-- [**ғʀᴇᴄʏʙᴇʀ ᴍᴅ**](https://github.com/Frecyber)
+- [**Hamisi_MD**](https://github.com/Hamisi_md)
+- [**ғʀᴇᴄʏʙᴇʀ ᴍᴅ**](https://github.com/Dullah-md)
 - [**BELTAH TECH**](https://github.com/BELTAHMD)
 - [**TELEGRAM**](t.me/freditech)
 - [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
