@@ -5,7 +5,7 @@
  <img alt="Hamisi_md" height="300" src="https://telegra.ph/file/c0b1dbeec892876be27a6.jpg">
   
 </h1> 
-<p align="center">l introduce <b>LUCKY_MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>Hamisi_md</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
