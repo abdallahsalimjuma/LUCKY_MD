@@ -1,4 +1,4 @@
-## DULLAH_MD V6
+## DULLAH_MD V6💂👊
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah md+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
