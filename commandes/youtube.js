@@ -30,7 +30,7 @@ zokou({
        
       let infoMess = {
   image: { url: videos[0].thumbnail },
-  caption: `╭━━lucky md v5 downloader menu━━╮
+  caption: `╭━━Dullah md v6 downloader menu━━╮
 *Song Name:* ${videos[0].title}
 
 *Uploaded:* ${videos[0].ago}
@@ -179,7 +179,7 @@ zokou({
 
       let InfoMess = {
   image: { url: Element.thumbnail },
-  caption: `╭━━lucky md v5 download menu━━╮
+  caption: `╭━━DULLAH md v6 download menu━━╮
 *Video Name:* ${Element.title}
 *Uploaded:* ${Element.ago}
 *Author:* ${Element.author.name}
@@ -211,7 +211,7 @@ _*Downloading...*_`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*joel md", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*Dullah md", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
