@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+itconst { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
 const { default: axios } = require('axios');
@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_uptime of lucky md v5 bot is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_uptime of DULLAH MD v6 bot is: ${runtime(process.uptime())}_*`) 
 
    
 
