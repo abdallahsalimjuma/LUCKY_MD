@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Fred1e/LUCKY_MD';
+  const githubRepo = 'https://api.github.com/repos/DULLAH/DULLAH_MD';
   const img = 'https://telegra.ph/file/59ead3c2b58ca1b07734d.jpg';
 
   try {
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Luck_md V5.*\n support channel *by*, *Follow 🙏*  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+this is* *DULLAH_md V6.*\n support channel *by*, *Follow 🙏*  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Fredie tech*
-💞 *THEME:* *FREDI*
-🥰*Fredi Is Like All Guys🤞*
+👨‍💻 *OWNER:* *DULLAH MD*
+💞 *THEME:* *DULLAH*
+🥰*DULLAH MD Is Like All Guys🤞*
 __________________________________
-            *Made With Fredie Tech*`;
+            *Made With DULLAH MD*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
