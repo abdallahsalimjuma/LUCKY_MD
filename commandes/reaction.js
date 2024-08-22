@@ -81,7 +81,7 @@ generateReactionCommand("hug", "😊");
 generateReactionCommand("awoo", "🐺");
 generateReactionCommand("kiss", "😘");
 generateReactionCommand("lick", "👅");
-generateReactionCommand("pat", "👋");
+generateReactionCommand("pat", "🖐️");
 generateReactionCommand("smug", "😏");
 generateReactionCommand("bonk", "🔨");
 generateReactionCommand("yeet", "🚀");
