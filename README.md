@@ -52,7 +52,7 @@
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-## Fork Dullah_Md V6 Repo
+## Fork DULLAH_MD V6 Repo
 
 
 <a href="https://github.com/Dullah_md/Dullah_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -88,7 +88,7 @@ star✨ my repo if you like this bot🤖
 ### 𝟜. 𝔻𝔼ℙ𝕃𝕆𝕐 𝔸ℕ𝕐 𝔹𝕆𝕋 𝕐𝕆𝕌 𝕃𝕀𝕂𝔼 ℍ𝔼ℝ𝔼
 
 <br>
-<a href="https://github.com/HDullah/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Dullah/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ##
 
@@ -107,10 +107,10 @@ star✨ my repo if you like this bot🤖
 
 ## License
 
-The WhatsApp Bot Dullah🍀_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot DULLAH👊_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 Dullah🍀_𝕄𝔻 🌟
+🙏 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 DULLAH👊_𝕄𝔻 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
