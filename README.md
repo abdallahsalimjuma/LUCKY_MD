@@ -1,11 +1,11 @@
-## DULLAH MD V6
+## DULLAH_MD V6
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah md+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
  <img alt="Dullah_md" height="300" src="https://telegra.ph/file/c0b1dbeec892876be27a6.jpg">
   
 </h1> 
-<p align="center">l introduce <b>Hamisi_md</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>DULLAH_MD V6</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -52,7 +52,7 @@
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-## Fork Dullah Md V6 Repo
+## Fork Dullah_Md V6 Repo
 
 
 <a href="https://github.com/Dullah_md/Dullah_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -99,7 +99,7 @@ star✨ my repo if you like this bot🤖
 <a href="http://wa.me/255716945971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255716945971" height="30" width="40" /></a>
 
 
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Abdallah" height="30" width="40" /></a>
 
 
 <a href="https://www.youtube.com/@freeonlinetvT1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abdallah" height="30" width="40" /></a>
@@ -119,7 +119,7 @@ The WhatsApp Bot Dullah🍀_MD is released under the [MIT License](https://opens
 - [**ғʀᴇᴄʏʙᴇʀ ᴍᴅ**](https://github.com/Dullah-md)
 - [**BELTAH TECH**](https://github.com/BELTAHMD)
 - [**TELEGRAM**](t.me/Dullah)
-- [**Developers Dullah md**](https://www.youtube.com/@freeonlinetvT1)
+- [**Developers Dullah_MD**](https://www.youtube.com/@freeonlinetvT1)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
