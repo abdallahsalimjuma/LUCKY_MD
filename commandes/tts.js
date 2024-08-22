@@ -1,11 +1,11 @@
-const googleTTS = require('google-tts-api');
+youconst googleTTS = require('google-tts-api');
 const {zokou} = require("../framework/zokou");
 
 
 zokou( {
   nomCom : "dit",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "💋" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
@@ -28,7 +28,7 @@ console.log(url);
 zokou( {
   nomCom : "itta",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "💋" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
@@ -51,7 +51,7 @@ console.log(url);
 zokou( {
   nomCom : "say",
  categorie : "tts",
-  reaction : "👄" },
+  reaction : "💋" },
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
