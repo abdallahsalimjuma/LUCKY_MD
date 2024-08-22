@@ -1,21 +1,21 @@
-## HAMIS MD V5
+## DULLAH MD V6
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Hamis+md+Created+by+Hamis.&heart;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+md+Created+by+Dullah.&heart;++;Self-taught+Back-Created+By,;Dullah md+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="Hamisi_md" height="300" src="https://telegra.ph/file/c0b1dbeec892876be27a6.jpg">
+ <img alt="Dullah_md" height="300" src="https://telegra.ph/file/c0b1dbeec892876be27a6.jpg">
   
 </h1> 
 <p align="center">l introduce <b>Hamisi_md</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/Hamisi_md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Hamisi_MD?label=Followers&style=social"></a>
-<a href="https://github.com/Dullah_md/Hamisi_MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Dullah_md/hamisi_md?&style=social"></a>
-<a href="https://github.com/Dullah_md/Hamis_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dullah_md/Hamisi_md?style=social"></a>
-<a href="https://github.com/Dullah_md/Hamis_MD_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dullah_md/Hamisi_md?label=Watching&style=social"></a>
+<a href="https://github.com/Dullah_md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Dullah_MD?label=Followers&style=social"></a>
+<a href="https://github.com/Dullah_md/HDullah_MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Dullah_md/Dullah_md?&style=social"></a>
+<a href="https://github.com/Dullah_md/Dullah_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dullah_md/Dullah_md?style=social"></a>
+<a href="https://github.com/Dullah_md/Dullah_MD_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dullah_md/Dullah_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dullah_md}/count.svg" alt="Hamisi_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dullah_md}/count.svg" alt="Dullah_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -25,12 +25,12 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Dullah_md/Hamisi_md"><b>Hamisi_md</b></a> Support Deploy On...
+  <a href="https://github.com/Dullah_md/Dullah_md"><b>Dullah_md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dullah_md/Hamisi_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dullah_md/Hamisi_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://github.com/Dullah_md/Dullah_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dullah_md/Dullah_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -52,10 +52,10 @@
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-## Fork Lucky Md V5 Repo
+## Fork Dullah Md V6 Repo
 
 
-<a href="https://github.com/Dullah_md/Hamisi_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Dullah_md/Dullah_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -66,11 +66,11 @@ star✨ my repo if you like this bot🤖
  𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
  
 
-<a href="https://Hamis MD-site-59b16cd2d3d0.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://Dulla MD-site-59b16cd2d3d0.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://Hamis md-site-59b16cd2d3d0.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://Dullah md-site-59b16cd2d3d0.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
@@ -81,14 +81,14 @@ star✨ my repo if you like this bot🤖
 
 **2. If You Have Account On Heroku**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Dullah_md/Hamisi_Md/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Dullah_md/Dullah_Md/tree/main">
  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
 ### 𝟜. 𝔻𝔼ℙ𝕃𝕆𝕐 𝔸ℕ𝕐 𝔹𝕆𝕋 𝕐𝕆𝕌 𝕃𝕀𝕂𝔼 ℍ𝔼ℝ𝔼
 
 <br>
-<a href="https://github.com/Hamisi/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/HDullah/BOTS-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/BOTS-SITE -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ##
 
@@ -102,24 +102,24 @@ star✨ my repo if you like this bot🤖
 <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="30" width="40" /></a>
 
 
-<a href="https://www.youtube.com/@freeonlinetvT1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@freeonlinetvT1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abdallah" height="30" width="40" /></a>
 
 
 ## License
 
-The WhatsApp Bot Hamisi🍀_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Dullah🍀_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 Hamisi🍀_𝕄𝔻 🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 Dullah🍀_𝕄𝔻 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**Hamisi_MD**](https://github.com/Hamisi_md)
+- [**DULLAH_MD V6**](https://github.com/Dullah_md)
 - [**ғʀᴇᴄʏʙᴇʀ ᴍᴅ**](https://github.com/Dullah-md)
 - [**BELTAH TECH**](https://github.com/BELTAHMD)
-- [**TELEGRAM**](t.me/freditech)
-- [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
+- [**TELEGRAM**](t.me/Dullah)
+- [**Developers Dullah md**](https://www.youtube.com/@freeonlinetvT1)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
